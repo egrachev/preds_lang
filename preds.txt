@@ -1,0 +1,1 @@
+if a==0 and 1==0 then aaa=0 end
